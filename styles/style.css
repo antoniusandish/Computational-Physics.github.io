@@ -1,0 +1,101 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    color: #c60000
+}
+
+h3 {
+    color: #0007c6
+}
+footer {
+    padding: 30px;
+    color: white;
+    background-color: #00aeffef;
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    font: 1em sans-serif;
+}
+p {
+    text-align: justify;
+}
+p {
+        margin-top: 5px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        margin-left: 15px;
+}
+
+.jumbotron {
+    font-size: 30px;
+    padding: 60px;
+    background-color: #009dff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+nav li  {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+nav {
+    background-color: rgb(53, 153, 173);
+    padding: 10px;
+    color: aliceblue;
+}
+nav a {
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+nav a:hover {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(24, 24, 24, 0.4);
+    border-radius: 10px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 5px;
+}
+
+main {
+    float:left;
+    width: 60%;
+}
+
+
+.profile header {
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+.profile section {
+    text-align: center;
+}
+
+aside {
+    float: right;
+    width: 40%
+}
+footer {
+    width: 170%;
+}
